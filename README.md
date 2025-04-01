@@ -50,6 +50,5 @@ Terraform
 
 [LinkedIn](https://linkedin.com/in/jazeer) | [X](https://x.com/iamjazeer)  
 
-LinkedIn | GitHub
 
 
