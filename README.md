@@ -14,7 +14,7 @@ Love automating workflows and exploring cutting-edge technologies
 
 🛠️ Tech Stack I Work With
 
-Linux Expertise: Deep expertise in Linux system administration, performance tuning, and security hardening
+Linux 
 
 Cloud: AWS | Azure | GCP
 
