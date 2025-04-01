@@ -4,8 +4,6 @@ I'm Jazeer
 
 💻 About Me
 
-Linux expert with deep expertise in system administration, performance tuning, and security hardening
-
 Passionate DevOps Engineer, Cybersecurity Enthusiast, Web3 & DLT Enthusiast
 
 Expert in building scalable, reliable, and secure cloud infrastructure
