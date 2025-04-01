@@ -47,6 +47,7 @@ Infrastructure as Code (IaC)
 Terraform
 
 🚀 Let's ConnectFeel free to reach out for collaborations, discussions, or just to say hi!
+[LinkedIn](https://linkedin.com/in/jazeer) | [X](https://x.com/iamjazeer)  
 
 LinkedIn | GitHub
 
