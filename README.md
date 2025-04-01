@@ -10,41 +10,25 @@ Expert in building scalable, reliable, and secure cloud infrastructure
 
 Love automating workflows and exploring cutting-edge technologies
 
-Strong believer in open-source and continuous learning
+
 
 🛠️ Tech Stack I Work With
 
-Linux Expertise
+Linux Expertise: Deep expertise in Linux system administration, performance tuning, and security hardening
 
-Deep expertise in Linux system administration, performance tuning, and security hardening
+Cloud: AWS | Azure | GCP
 
-Cloud
+Service Mesh & Networking: Istio | Cillium
 
-AWS | Azure | GCP
+Monitoring & Logging: Prometheus | Grafana | Elastic Search
 
-Service Mesh & Networking
+Configuration Management: Ansible
 
-Istio | Cillium
+Containerization & Orchestration: Docker | Kubernetes
 
-Monitoring & Logging
+Scripting: Bash | Python
 
-Prometheus | Grafana | Elastic Search
-
-Configuration Management
-
-Ansible
-
-Containerization & Orchestration
-
-Docker | Kubernetes
-
-Scripting
-
-Bash | Python
-
-Infrastructure as Code (IaC)
-
-Terraform
+Infrastructure as Code (IaC): Terraform
 
 🚀 Let's ConnectFeel free to reach out for collaborations, discussions, or just to say hi!
 
