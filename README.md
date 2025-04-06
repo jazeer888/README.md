@@ -20,7 +20,7 @@ Cloud: AWS | Azure | GCP
 
 Service Mesh & Networking: Istio | Cillium
 
-Monitoring & Logging: Prometheus | Grafana | Elastic Search
+Monitoring & Logging: Prometheus | Grafana | Elastic Search | Loki | Thanos
 
 Configuration Management: Ansible
 
